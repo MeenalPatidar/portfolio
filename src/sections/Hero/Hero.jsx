@@ -46,10 +46,10 @@ function Hero() {
                 <a href="https://www.instagram.com/meenal_patidar?igsh=c3BqYzgxcjh5N2xz" target="_blank">
                     <img src={instaIcon} alt="Instagram icon"/>
                 </a>
-                <a href="https://www.linkedin.com/in/meenal-patidar-649209200/" target="_blank">
+                <a href="https://github.com/MeenalPatidar" target="_blank">
                     <img src={githubIcon} alt="LinkedIn icon"/>
                 </a>
-                <a href="https://github.com/MeenalPatidar" target="_blank">
+                <a href="https://www.linkedin.com/in/meenal-patidar-649209200/" target="_blank">
                     <img src={linkedinIcon} alt="Github icon"/>
                 </a>
             </span>
